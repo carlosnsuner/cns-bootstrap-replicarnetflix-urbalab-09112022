@@ -4,7 +4,7 @@ body{
 }
 
 .container-fluid{
-    /* background-color: red; */
+    background-color: black;
     
 }
 
@@ -37,8 +37,14 @@ body{
     background-color: black;
     width: 15vw;
     height: 100%;
-    
+    margin-top: 5px;
 }
+
+.redefinir{
+    width: 60%;
+    height: 60%;
+}
+    
 .header-center{
     background-color: black;
     width: 55vw;
