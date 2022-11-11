@@ -3,7 +3,7 @@
 
 ***
 
-### Semana 02 - (Retos Layout CSS) - Replicar web de Netflix.
+### Semana 02 - (Retos Responsive) - Replicar web de Netflix.
 
 Reto: Eres capaz de replicar el layout principal de Netflix...
 
