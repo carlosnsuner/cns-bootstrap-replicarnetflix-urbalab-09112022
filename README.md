@@ -3,11 +3,11 @@
 
 ***
 
-### Semana 02 - (Retos Responsive) - Replicar web de Netflix.
+### Semana 02 - (Retos Responsive) - Replicar web de Netflix con Bootstrap.
 
 Reto: Eres capaz de replicar el layout principal de Netflix...
 
-![Ejercicio](https://github.com/carlosnsuner/cns.html-grip-replicarnetflix-urbalab-08112022/raw/master/img/capturanetflix.png)
+![Ejercicio](https://github.com/carlosnsuner/cns-bootstrap-replicarnetflix-urbalab-09112022/raw/master/img/capturanetflix.PNG)
 
 
 ***
